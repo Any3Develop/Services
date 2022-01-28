@@ -1,0 +1,1 @@
+Commands allow you to reuse the code, call it from the command line (not implemented, but everything is possible), a convenient, irreplaceable thing. Of course you can improve.

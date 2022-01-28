@@ -1,0 +1,1 @@
+Inherit SheetLoader and use it in your prefabs to load public GoogleSheets pages into your custom config importers, in my case Json.

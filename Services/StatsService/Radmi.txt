@@ -1,0 +1,1 @@
+Not a bad system, StatLinker is poorly implemented, StatModifiable has a vulnerability to counting modifiers (i can do better, as soon as I can update).
